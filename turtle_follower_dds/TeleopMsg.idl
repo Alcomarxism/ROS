@@ -1,0 +1,4 @@
+struct TeleopMsg {
+    float speed;
+    float angSpeed;
+};

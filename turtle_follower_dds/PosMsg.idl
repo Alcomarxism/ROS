@@ -1,0 +1,5 @@
+struct PosMsg {
+    float x;
+    float y;
+    float theta;
+};

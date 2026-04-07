@@ -1,0 +1,2 @@
+CMakeFiles/turtle_follower_dds.dir/turtle_follower_dds_autogen/EWIEGA46WW/qrc_resources.cpp.obj: \
+ C:\Users\Alcomarxism\Documents\QtProject\turtle_follower_dds\build\Desktop_Qt_6_11_0_MinGW_64_bit-u041eu0442u043bu0430u0434u043au0430\turtle_follower_dds_autogen\EWIEGA46WW\qrc_resources.cpp

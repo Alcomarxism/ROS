@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-2d3374b85bc18e664a21.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "turtle_follower_dds",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "turtle_follower_dds::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-turtle_follower_dds-Debug-e2351d065e5578376529.json",
+					"name" : "turtle_follower_dds",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "turtle_follower_dds_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-turtle_follower_dds_autogen-Debug-56495ba3506c7fa0a128.json",
+					"name" : "turtle_follower_dds_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "turtle_follower_dds_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-turtle_follower_dds_autogen_timestamp_deps-Debug-f91af87b2830b6729e61.json",
+					"name" : "turtle_follower_dds_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Alcomarxism/Documents/QtProject/turtle_follower_dds/build/Desktop_Qt_6_11_0_MinGW_64_bit-u041eu0442u043bu0430u0434u043au0430",
+		"source" : "C:/Users/Alcomarxism/Documents/QtProject/turtle_follower_dds"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
